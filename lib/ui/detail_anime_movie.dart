@@ -57,7 +57,7 @@ class DetailAnimeMoviesMobilePage extends StatelessWidget {
                           child: SizedBox(
                             width: 450,
                             height: 400,
-                            child: Image.asset(
+                            child: Image.network(
                               anime.imagePoster,
                               fit: BoxFit.cover,
                             ),
@@ -132,7 +132,7 @@ class DetailAnimeMoviesMobilePage extends StatelessWidget {
                               padding: const EdgeInsets.all(4.0),
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(10),
-                                child: Image.asset(imageAsset),
+                                child: Image.network(imageAsset),
                               ),
                             );
                           }).toList(),
@@ -254,7 +254,7 @@ class DetailAnimeMovieWebPage extends StatelessWidget {
                           child: SizedBox(
                             width: 450,
                             height: 400,
-                            child: Image.asset(
+                            child: Image.network(
                               anime.imagePoster,
                               fit: BoxFit.cover,
                             ),
@@ -329,7 +329,7 @@ class DetailAnimeMovieWebPage extends StatelessWidget {
                               padding: const EdgeInsets.all(4.0),
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(10),
-                                child: Image.asset(imageAsset),
+                                child: Image.network(imageAsset),
                               ),
                             );
                           }).toList(),

@@ -67,7 +67,7 @@ class AnimeMoviesMobile extends StatelessWidget {
                       Expanded(child:
                       ClipRRect(
                         borderRadius: BorderRadius.circular(15),
-                        child: Image.asset(
+                        child: Image.network(
                           anime.imagePoster,
                           fit: BoxFit.cover,
                         ),
@@ -129,7 +129,7 @@ class AnimeMoviesWeb extends StatelessWidget {
                       Expanded(child:
                       ClipRRect(
                         borderRadius: BorderRadius.circular(15),
-                        child: Image.asset(
+                        child: Image.network(
                           anime.imagePoster,
                           fit: BoxFit.cover,
                         ),

@@ -43,12 +43,12 @@ var animeMovieList = [
       runTime: '2h 17m',
       originalLanguage: 'Japanese',
       rating: '4.7/5',
-      imagePoster: 'images/TheTaleOfThePrincesKaguya/img-princess-kaguya.png',
+      imagePoster: 'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheTaleOfThePrincesKaguya/img-princess-kaguya.png',
       imageAssets: [
-        'images/TheTaleOfThePrincesKaguya/pk-pict-one.png',
-        'images/TheTaleOfThePrincesKaguya/pk-pict-two.png',
-        'images/TheTaleOfThePrincesKaguya/pk-pict-three.png',
-        'images/TheTaleOfThePrincesKaguya/pk-pict-four.png'
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheTaleOfThePrincesKaguya/pk-pict-one.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheTaleOfThePrincesKaguya/pk-pict-two.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheTaleOfThePrincesKaguya/pk-pict-three.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheTaleOfThePrincesKaguya/pk-pict-four.png'
       ]
   ),
   AnimeMovie(
@@ -63,12 +63,12 @@ var animeMovieList = [
       runTime: '1h 46m',
       originalLanguage: 'Japanese',
       rating: '4.5/5',
-      imagePoster: 'images/YourName/img_your_name.png',
+      imagePoster: 'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/YourName/img_your_name.png',
       imageAssets: [
-        'images/YourName/yn-pict-one.png',
-        'images/YourName/yn-pict-two.png',
-        'images/YourName/yn-pict-three.png',
-        'images/YourName/yn-pict-four.png'
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/YourName/yn-pict-one.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/YourName/yn-pict-two.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/YourName/yn-pict-three.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/YourName/yn-pict-four.png'
       ]
   ),
   AnimeMovie(
@@ -83,12 +83,12 @@ var animeMovieList = [
       runTime: '2h 4m',
       originalLanguage: 'Japanese',
       rating: '5/5',
-      imagePoster: 'images/TheBoyAndTheHeron/img_the_boy_and_the_heron.png',
+      imagePoster: 'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheBoyAndTheHeron/img_the_boy_and_the_heron.png',
       imageAssets: [
-        'images/TheBoyAndTheHeron/tbth-pict-one.png',
-        'images/TheBoyAndTheHeron/tbth-pict-two.png',
-        'images/TheBoyAndTheHeron/tbth-pict-three.png',
-        'images/TheBoyAndTheHeron/tbth-pict-four.png'
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheBoyAndTheHeron/tbth-pict-one.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheBoyAndTheHeron/tbth-pict-two.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheBoyAndTheHeron/tbth-pict-three.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheBoyAndTheHeron/tbth-pict-four.png'
       ]
   ),
   AnimeMovie(
@@ -103,11 +103,11 @@ var animeMovieList = [
       runTime: '1h 30m',
       originalLanguage: 'Japanese',
       rating: '5/5',
-      imagePoster: 'images/TokyoGodfathers/img_tokyo_godfathers.png',
+      imagePoster: 'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TokyoGodfathers/img_tokyo_godfathers.png',
       imageAssets: [
-        'images/TokyoGodfathers/tgf-pict-one.png',
-        'images/TokyoGodfathers/tgf-pict-two.png',
-        'images/TokyoGodfathers/tgf-pict-three.png'
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TokyoGodfathers/tgf-pict-one.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TokyoGodfathers/tgf-pict-two.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TokyoGodfathers/tgf-pict-three.png'
       ]
   ),
   AnimeMovie(
@@ -122,12 +122,12 @@ var animeMovieList = [
       runTime: '1h 48m',
       originalLanguage: 'Japanese',
       rating: '4.8/5',
-      imagePoster: 'images/TheImaginary/img_the_imaginary.png',
+      imagePoster: 'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheImaginary/img_the_imaginary.png',
       imageAssets: [
-        'images/TheImaginary/ti-pict-one.png',
-        'images/TheImaginary/ti-pict-two.png',
-        'images/TheImaginary/ti-pict-three.png',
-        'images/TheImaginary/ti-pict-four.png'
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheImaginary/ti-pict-one.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheImaginary/ti-pict-two.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheImaginary/ti-pict-three.png',
+        'https://raw.githubusercontent.com/romydewantara/AnimeKu/refs/heads/master/images/TheImaginary/ti-pict-four.png'
       ]
   ),
 ];

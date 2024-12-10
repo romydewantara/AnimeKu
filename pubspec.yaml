@@ -19,20 +19,12 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  flutter_lints: ^5.0.0
 
 
 flutter:
 
   uses-material-design: true
-
-  assets:
-    - images/TheTaleOfThePrincesKaguya/
-    - images/YourName/
-    - images/TheBoyAndTheHeron/
-    - images/TokyoGodfathers/
-    - images/TheImaginary/
-    - images/
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
